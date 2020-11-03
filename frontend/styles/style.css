@@ -1,0 +1,17 @@
+.success, .error {
+  color: white;
+  padding: 10px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
+
+body {
+  background: #45aaf2;  /* fallback for old browsers */
+}
